@@ -105,7 +105,7 @@ const movieTemplate = movieDetail => {
 
     return `
         <article class="media">
-            <figure class="media0-left">
+            <figure class="media-left">
                 <p class="image">
                     <img src="${movieDetail.Poster}" />
                 </p>
